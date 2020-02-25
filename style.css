@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(to right, #007fff 0%,#6100ff 46%,#8700ff 70%);
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    /*border-style: solid;*/
+    padding: 0px;
+}
+h4{
+    font-size: 15px;
+    color: white;
+}
+h5{
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    /*border-style: solid;*/
+    margin: -30px 0px 0px 100px;
+}
+p{
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    opacity: 1;
+}
+.div1{
+ /*border-style: solid;*/
+ border-radius: 5px;
+ text-align: center;
+ /*border-color: black;*/
+ background-color: white;
+ margin: 100px 600px 100px 600px;
+ opacity: 0.5;
+}
+.div2{
+    /*border-style: solid;*/
+    /*border-color: black;*/
+    text-align: center;
+    margin: auto 100px auto 100px;
+    border-radius: 5px;
+    background-color:  white;
+    opacity: 1;
+}
