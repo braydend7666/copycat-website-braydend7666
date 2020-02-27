@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Readme</title>
   </head>
   <body>
         <h4>my website= https://braydend7666.github.io/copycat-website-braydend7666/<h4>
