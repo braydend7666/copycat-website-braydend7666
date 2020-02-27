@@ -10,7 +10,8 @@ h1{
     padding: 0px;
 }
 h4{
-    font-size: 15px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
     color: white;
 }
 h5{
@@ -29,19 +30,46 @@ p{
 }
 .div1{
  /*border-style: solid;*/
- border-radius: 5px;
+ /*border-radius: 5px;*/
  text-align: center;
  /*border-color: black;*/
  background-color: white;
- margin: 100px 600px 100px 600px;
- opacity: 0.5;
+ margin: -250px 600px 100px 600px;
+ opacity: 0.1;
 }
 .div2{
-    /*border-style: solid;*/
-    /*border-color: black;*/
+    border-style: solid;
+    border-color: white;
     text-align: center;
     margin: auto 100px auto 100px;
     border-radius: 5px;
     background-color:  white;
     opacity: 1;
+}
+
+p2{
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.div3{
+ /*border-style: solid;*/
+ /*border-radius: 5px;*/
+ text-align: center;
+ /*border-color: black;*/
+ /*background-color: white;*/
+ margin: 100px 600px 100px 600px;
+ /*opacity: 0.5;*/
+ color: white;
+     font-family: 'Roboto', sans-serif;
+}
+.div4{
+    /*border-style: solid;*/
+    /*border-color: black;*/
+    text-align: center;
+    margin: auto 100px auto 100px;
+    /*border-radius: 5px;*/
+    /*background-color:  white;*/
+    /*opacity: 1;*/
 }
