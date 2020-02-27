@@ -10,7 +10,7 @@ h1{
     padding: 0px;
 }
 h4{
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'Roboto', sans-serif;
     color: white;
 }
@@ -23,53 +23,14 @@ h5{
     margin: -30px 0px 0px 100px;
 }
 p{
-    font-size: 11px;
+    font-size: 13px;
     font-family: 'Roboto', sans-serif;
     color: white;
     opacity: 1;
 }
-.div1{
- /*border-style: solid;*/
- /*border-radius: 5px;*/
- text-align: center;
- /*border-color: black;*/
- background-color: white;
-margin: auto auto auto auto;
- opacity: 0.1;
-}
-.div2{
-    border-style: solid;
-    border-color: white;
-    text-align: center;
-    margin: auto auto auto auto;
-    border-radius: 5px;
-    background-color:  white;
-    opacity: 1;
-}
 
-p2{
-    font-size: 11px;
-    font-family: 'Roboto', sans-serif;
-    color: white;
-}
-
-.div3{
- /*border-style: solid;*/
- /*border-radius: 5px;*/
- text-align: center;
- /*border-color: black;*/
- /*background-color: white;*/
-    margin: auto auto auto auto;
- /*opacity: 0.5;*/
- color: white;
-     font-family: 'Roboto', sans-serif;
-}
-.div4{
-    /*border-style: solid;*/
-    /*border-color: black;*/
+.box{
+    background: rgba(255, 255, 255, 0.1); 
     text-align: center;
-    margin: auto auto auto auto;
-    /*border-radius: 5px;*/
-    /*background-color:  white;*/
-    /*opacity: 1;*/
+    margin: auto 800px auto 800px;
 }
